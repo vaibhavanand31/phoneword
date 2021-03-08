@@ -15,6 +15,23 @@ namespace Phoneword
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.activity_main);
+            EditText phoneNumberText = FindViewById<EditText>(Resource.Id.phoneNumberText);
+            TextView translatedPhoneWord = FindViewById<TextView>(Resource.Id.translatePhoneword);
+            Button translateButton = FindViewById<Button>(Resource.Id.translateButton);
+
+            translateButton.Click += (sender, e) =>
+            {
+                string translatedNumer = Core.PhoneTranslator.ToNumber(phoneNumberText.Text);
+                if (string.IsNullOrWhiteSpace(translatedNumer))
+                {
+                    translatedPhoneWord.Text = string.Empty;
+                }
+                else
+                {
+                    translatedPhoneWord.Text = translatedNumer;
+                }
+            };
+
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {
