@@ -243,3 +243,4 @@ C:\Users\student\source\repos\Phoneword\obj\Debug\90\stamp\_ConvertResourcesCase
 C:\Users\student\source\repos\Phoneword\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\student\source\repos\Phoneword\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\student\source\repos\Phoneword\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\student\source\repos\Phoneword\obj\Debug\90\android\src\crc64011c912fbddd1d08\TranslationHistoryActivity.java

@@ -705,9 +705,9 @@ public final class R {
 		public static final int title_template = 0x7f0800ae;
 		public static final int top = 0x7f0800af;
 		public static final int topPanel = 0x7f0800b0;
-		public static final int uniform = 0x7f0800b9;
-		public static final int up = 0x7f0800bb;
-		public static final int wrap_content = 0x7f0800c0;
+		public static final int uniform = 0x7f0800ba;
+		public static final int up = 0x7f0800bc;
+		public static final int wrap_content = 0x7f0800c1;
 	}
 	public static final class integer {
 		public static final int abc_config_activityDefaultDur = 0x7f090000;

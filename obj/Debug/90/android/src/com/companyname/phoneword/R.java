@@ -4752,15 +4752,16 @@ public final class R {
     public static final int transition_scene_layoutid_cache=0x7f0800b5;
     public static final int transition_transform=0x7f0800b6;
     public static final int translateButton=0x7f0800b7;
-    public static final int translatePhoneword=0x7f0800b8;
-    public static final int uniform=0x7f0800b9;
-    public static final int unlabeled=0x7f0800ba;
-    public static final int up=0x7f0800bb;
-    public static final int useLogo=0x7f0800bc;
-    public static final int view_offset_helper=0x7f0800bd;
-    public static final int visible=0x7f0800be;
-    public static final int withText=0x7f0800bf;
-    public static final int wrap_content=0x7f0800c0;
+    public static final int translateHistoryButton=0x7f0800b8;
+    public static final int translatePhoneword=0x7f0800b9;
+    public static final int uniform=0x7f0800ba;
+    public static final int unlabeled=0x7f0800bb;
+    public static final int up=0x7f0800bc;
+    public static final int useLogo=0x7f0800bd;
+    public static final int view_offset_helper=0x7f0800be;
+    public static final int visible=0x7f0800bf;
+    public static final int withText=0x7f0800c0;
+    public static final int wrap_content=0x7f0800c1;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f090000;
@@ -4906,6 +4907,7 @@ public final class R {
     public static final int path_password_strike_through=0x7f0d0035;
     public static final int search_menu_title=0x7f0d0036;
     public static final int status_bar_notification_info_overflow=0x7f0d0037;
+    public static final int translateHistoryButton=0x7f0d0038;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f0e0000;

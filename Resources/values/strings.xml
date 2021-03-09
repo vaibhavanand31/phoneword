@@ -1,4 +1,5 @@
 <resources>
+	<string name="translateHistoryButton">Translate History</string>
     <string name="app_name">Phoneword</string>
     <string name="action_settings">Settings</string>
 </resources>

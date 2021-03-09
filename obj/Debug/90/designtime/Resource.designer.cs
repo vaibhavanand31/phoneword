@@ -3802,31 +3802,34 @@ namespace Phoneword
 			public const int translateButton = 2131230914;
 			
 			// aapt resource value: 0x7F0800C3
-			public const int translatePhoneword = 2131230915;
+			public const int translateHistoryButton = 2131230915;
 			
 			// aapt resource value: 0x7F0800C4
-			public const int uniform = 2131230916;
+			public const int translatePhoneword = 2131230916;
 			
 			// aapt resource value: 0x7F0800C5
-			public const int unlabeled = 2131230917;
+			public const int uniform = 2131230917;
 			
 			// aapt resource value: 0x7F0800C6
-			public const int up = 2131230918;
+			public const int unlabeled = 2131230918;
 			
 			// aapt resource value: 0x7F0800C7
-			public const int useLogo = 2131230919;
+			public const int up = 2131230919;
 			
 			// aapt resource value: 0x7F0800C8
-			public const int view_offset_helper = 2131230920;
+			public const int useLogo = 2131230920;
 			
 			// aapt resource value: 0x7F0800C9
-			public const int visible = 2131230921;
+			public const int view_offset_helper = 2131230921;
 			
 			// aapt resource value: 0x7F0800CA
-			public const int withText = 2131230922;
+			public const int visible = 2131230922;
 			
 			// aapt resource value: 0x7F0800CB
-			public const int wrap_content = 2131230923;
+			public const int withText = 2131230923;
+			
+			// aapt resource value: 0x7F0800CC
+			public const int wrap_content = 2131230924;
 			
 			static Id()
 			{
@@ -4297,6 +4300,9 @@ namespace Phoneword
 			
 			// aapt resource value: 0x7F0D0037
 			public const int status_bar_notification_info_overflow = 2131558455;
+			
+			// aapt resource value: 0x7F0D0038
+			public const int translateHistoryButton = 2131558456;
 			
 			static String()
 			{
